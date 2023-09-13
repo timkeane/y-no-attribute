@@ -6,6 +6,6 @@
 
 `http://localhost:5173/`
 
-Open debug console and click on an mvt feature.  Basemap would be much more usefull if features carried some basic identifiers like BIN.
+Open debug console and click on an MVT feature.  Basemap would be much more usefull if features carried some basic identifiers like BIN.
 
 ![example useage](example.png)
